@@ -12,7 +12,7 @@ Test your memory by flipping cards and matching pairs!
 
 ## 📸 Demo Screenshot  
 
-![Game Screenshot](./images/screenshot.png)  
+![Game Screenshot](./screenshot.png)  
 
 ---
 
